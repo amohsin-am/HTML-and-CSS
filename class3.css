@@ -1,0 +1,48 @@
+.column_1{
+    height: 400px;
+    background-image: url("img_test.jpeg");
+    background-repeat:no-repeat;
+    background-color: cadetblue;
+    background-attachment:fixed;
+    background-position: center;
+}
+
+.column_2{
+    height: 400px;
+    background: green url("astro_helmet.jpg") no-repeat scroll;
+    background-size: cover;
+}
+
+.column_3{
+    background: blue url("https://sxcontent9668.azureedge.us/cms-assets/assets/make_life_multiplanetary_desktop_3fa7cff73c.jpg") no-repeat scroll;
+    background-size: cover;
+    height: 400px;
+}
+
+#user_name{
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid red;
+    background-color: #5ce7b4;
+}
+
+#user_name:focus{
+    background-color: rgb(139, 157, 37);
+    width: 50%;
+    border: 4px dotted blue;
+    padding: 10px 10px;
+}
+
+label{
+    color: white;
+    width: 200px;
+    text-align: right;
+    display: inline-block;
+    background-color: aquamarine;
+}
+
+#sub_button{
+    background-color: #04AA6D;
+    cursor: pointer;
+    padding: 4px 6px;
+}

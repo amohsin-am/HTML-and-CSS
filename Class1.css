@@ -1,0 +1,31 @@
+.boot_style{
+    background-color: aquamarine;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.test_bg{
+    background-color: purple;
+}
+
+.test_bg_2{
+    background-color:brown;
+}
+
+.test_bg_3{
+    background-color: navy;
+}
+
+.row{
+    height: 300px;
+}
